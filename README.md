@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on adaptive web-sites development
 - 📫 How to reach me galachcoding@gmail.com
 
-#### Check my portfolio [here](https://galachernikova.github.io/portfolio/) 👈
+#### Check my portfolio 👉 [here](https://galachernikova.github.io/portfolio/)
 
 <!---
 GalaChernikova/GalaChernikova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
