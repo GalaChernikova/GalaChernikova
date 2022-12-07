@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GalaChernikova
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 🌱 I’m currently learning HTML/CSS/JavaScript/React JS
 - 💞️ I’m looking to collaborate on adaptive web-sites development
 - 📫 How to reach me galachcoding@gmail.com
 
